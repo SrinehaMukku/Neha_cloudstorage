@@ -1,0 +1,13 @@
+common\DateStringSerializer.class
+com\cloudstorageapi\api\controller\FolderController.class
+common\Validator.class
+common\AuthenticationResponse.class
+common\DateStringDeserializer.class
+utils\UnauthorizedException.class
+common\ErrorResponse.class
+com\cloudstorageapi\api\CloudStorageApplication.class
+com\cloudstorageapi\api\model\FolderRequestBody.class
+com\cloudstorageapi\api\service\FolderService.class
+com\cloudstorageapi\api\entity\FolderEntity.class
+com\cloudstorageapi\api\model\FolderIdRequest.class
+com\cloudstorageapi\api\repositories\FolderRepository.class
